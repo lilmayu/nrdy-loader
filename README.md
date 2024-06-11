@@ -1,8 +1,14 @@
 # nrdy loader
 
-*We do what we must because we can, for the good of all of us, except the ones who are dead.* - GLaDOS (Portal) (Portal is a trademark of Valve Corporation)
-
 Java implementation of the `nrdy` human-readable serialization format.
+
+----
+
+*We do what we must because we can, for the good of all of us, except the ones who are dead.*
+
+\- GLaDOS (Portal) (Portal is a trademark of Valve Corporation)
+
+----
 
 ## Contents
 

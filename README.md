@@ -1,5 +1,7 @@
 # nrdy loader
 
+![Coverage](.github/badges/jacoco.svg)
+
 Java implementation of the `nrdy` human-readable serialization format.
 
 ----
